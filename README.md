@@ -14,32 +14,78 @@
 </div>
 <h3 align="left">Olá, sou Paulo Henrique</h3>
 <p>
-Sou desenvolvedor back-end, com experiência em criação de APIs RESTful, integração com bancos de dados relacionais e desenvolvimento de relatórios utilizando JasperSoft Studio e iReport. Trabalho com linguagens como Kotlin, Java e C#, utilizando frameworks como Spring Boot e ASP.NET Core.
+Desenvolvedor back-end com foco em Java, Spring Boot, PostgreSQL e APIs RESTful.
 
-Também possuo conhecimentos em front-end com HTML, CSS, JavaScript, Bootstrap, JQuery e AJAX, aplicados na construção de interfaces funcionais e responsivas.
+Atuo no desenvolvimento e na evolução de sistemas, trabalhando com regras de negócio, integração entre serviços, persistência de dados, segurança, relatórios e investigação de problemas. Também tenho experiência complementar com Kotlin, C#, Flutter, JavaScript, React, Node.js, Docker e Azure.
 
-Atualmente, busco aprimorar minhas habilidades técnicas e atuar em projetos que envolvam colaboração, resolução de problemas e entregas de valor real para os usuários.</p>
+Atualmente estou aprofundando fundamentos de engenharia de software, testes automatizados, observabilidade e arquitetura de sistemas.
+</p>
 
 <hr>
 
 ###
 
+## Principais competências
+
+- Java, Spring Boot e Spring Data JPA
+- APIs RESTful, validação, autenticação e autorização
+- PostgreSQL, SQL, modelagem e otimização de consultas
+- JUnit, Mockito e testes de integração
+- Kotlin no ecossistema JVM
+- Docker, Git, Azure e OpenTelemetry
+- JasperReports e integração com sistemas legados
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="30" alt="java logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="30" alt="spring logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="30" alt="postgres logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="30" alt="kotlin logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="30" alt="docker logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="30" alt="git logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" height="30" alt="azure logo"  />
   <img width="10" />
 </div>
+
+## Projetos em destaque
+
+### Parking API
+
+API REST desenvolvida com Java 17 e Spring Boot para gerenciamento de estacionamentos, com autenticação, autorização, auditoria, persistência com JPA e testes de integração.
+
+[Ver projeto](https://github.com/paullo-hh/parking-api)
+
+### Portal Católico do Brasil
+
+Aplicação web desenvolvida em equipe durante a graduação para centralizar informações sobre igrejas, missas, eventos e liturgias. Participei do desenvolvimento full stack e da organização da solução.
+
+[Ver projeto](https://github.com/paullo-hh/ads-project-portal-catolico)
+
+### Prometheus
+
+Projeto de estudo voltado à instrumentação e ao acompanhamento de métricas de aplicações, com foco em observabilidade e aprendizado prático.
+
+[Ver projeto](https://github.com/paullo-hh/prometheus)
+
+## Em estudo
+
+- Fundamentos de Java e JVM
+- Testes automatizados e integração contínua
+- PostgreSQL, transações e performance
+- Design de APIs e segurança
+- Arquitetura modular e documentação de decisões
+- Observabilidade e confiabilidade
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/paullo-h-sousa
+- E-mail: contacthenry96@gmail.com
+- Portfólio: https://paulo-henrique-zeta.vercel.app/
 
 ###
 
